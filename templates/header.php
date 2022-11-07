@@ -25,10 +25,6 @@
             background-image: url(jose-ignacio-pompe-s-Z-h0fEiBM-unsplash.jpg);
             background-size: cover;
         }
-        .center{
-            width: 2000px;
-            height: 1000px;
-        }
     </style>
 </head>
 <body class="grey lighten-4" >
